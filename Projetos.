@@ -1,0 +1,30 @@
+# index <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Meu Portfólio</title>
+</head>
+<body>
+
+  <h1>Meu Primeiro Portfólio</h1>
+
+  <p>Olá! Eu sou um estudante de programação 💻</p>
+
+  <h2>Meus Projetos</h2>
+
+  <ul>
+    <li>Calculadora simples em Python</li>
+    <li>Site básico de portfólio</li>
+  </ul>
+
+  <button onclick="mostrarMensagem()">Clique aqui</button>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
+
+escript
+function mostrarMensagem() {
+  alert("Parabéns! Você está aprendendo programação 💻🔥");
+}
